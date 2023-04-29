@@ -1,2 +1,2 @@
 # blog
-Stay hungry，Stay foolish
+Stay hungry,Stay foolish
